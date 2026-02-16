@@ -1,0 +1,5 @@
+appointment_id,patient_id,date,time,status,remarks
+7,5,2025-11-15,16:00:00,Cancelled,
+8,5,2025-11-15,16:30:00,Cancelled,
+14,5,2025-11-15,15:30:00,Cancelled,
+15,8,2025-11-15,15:00:00,Cancelled,
